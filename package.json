@@ -1,0 +1,9 @@
+{
+  "name": "charter-attestation-verifier",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Verify an EAS Founding Charter attestation against its IPFS texts, in the browser or Node.",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
